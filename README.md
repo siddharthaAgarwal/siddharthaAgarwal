@@ -6,7 +6,7 @@
 
 - 💼 &nbsp; Software Engineer at Aryaka Networks.
 - 🎓 &nbsp; Completed Masters from NIT Calicut.
-- 🤔 &nbsp; Being a developer is not one day task. It take years to develop a skill..
+- 🤔 &nbsp; Coding Enthusiast, loves to write scalable code, exploring new technologies and develop software solutions and quick hacks.
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ✉️  You can shoot me an email at siddharthaagarwal21jma@gmail.com! I'll try to respond as soon as I can.
 
