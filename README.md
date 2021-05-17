@@ -1,6 +1,6 @@
 <h2> Hi, This is Siddhartha.</h2>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/assets/Geek-Coder.gif" />
+<img width="35%" align="right" alt="Github" src="https://github.com/siddharthaAgarwal/siddharthaAgarwal/blob/main/assets/Geek-Coder.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
