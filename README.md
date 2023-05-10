@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Software Engineer at Aryaka Networks.
+- 💼 &nbsp; Software Engineer at Credit Saison India.
 - 🎓 &nbsp; Completed Masters from NIT Calicut.
 - 🤔 &nbsp; Coding Enthusiast, loves to write scalable code, develop software solutions and quick hacks.
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
